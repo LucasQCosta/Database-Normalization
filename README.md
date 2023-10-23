@@ -1,2 +1,5 @@
-# Database-Normalization
-This project is about a course in Database Normalization, Alura. 
+## Type of Normalization
+
+### 1. First Form (1FN)
+
+Cada atributo deve conter apenas valores atômicos
