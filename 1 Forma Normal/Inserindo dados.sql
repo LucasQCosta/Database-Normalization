@@ -20,7 +20,7 @@ INSERT INTO CLIENTES (COD_CLIENTE, NOME, EMAIL, RUA, BAIRRO, CIDADE, ESTADO) VAL
 ('CLT019', 'Empresa I EIRELI', 'empresa.i@example.com', 'Rua dos Coqueiros', 'Centro', 'São Luís', 'MA'),
 ('CLT020', 'Empresa J LTDA', 'empresa.j@example.com', 'Av. das Montanhas', 'Altiplano', 'Natal', 'RN');
 
-INSERT INTO telefone_cliente (COD_TELEFONE, COD_CLIENTE, TELEFONE) VALUES
+INSERT INTO TELEFONE_CLIENTE (COD_TELEFONE, COD_CLIENTE, TELEFONE) VALUES
 ('CT001','CLT001','(11)9876-5432'),
 ('CT002','CLT001','(11)1234-5678'),
 ('CT003','CLT002', '(21)8765-4321'),
